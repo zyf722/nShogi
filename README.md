@@ -8,4 +8,4 @@
 nShogi is a Shogi game written in Python in order to run on the TI-Nspire Handheld with the MicroPython interpreter.  
 It just has a CLI.
 
-There's something wrong about the movement of the uma/kaku/ryu piece, but I fixed this in the TI-Lua version of nShogi.
+There's something wrong about the movement of the uma/kaku/ryu piece, but I fixed this in the [TI-Lua version of nShogi](https://github.com/zyf722/nShogi-Lua).
