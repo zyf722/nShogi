@@ -1,6 +1,7 @@
 ![](https://i.loli.net/2019/08/14/ncO1D6W3Ub9R7MA.png)
 # nShogi
 ### A Shogi(Japanese Chess) game written in Python
+### This repo is NO LONGER under maintenance! 
 
 ![](https://i.loli.net/2019/08/14/BtvZYC3wzdhjimL.gif)
 ![](https://i.loli.net/2019/08/14/gqGvUcp8rSwBlW1.gif)
